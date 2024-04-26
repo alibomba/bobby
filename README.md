@@ -1,3 +1,2 @@
 # Bobby
-Projekt Bobby to strona internetowa wymyślonej restauracji. Posiada między innymi funkcję wyszukiwania dań w menu i dodawania produktów do koszyka.
-Jest zrobiony w HTML, CSS, Vanilla JavaScripcie wraz z technologią AJAX oraz PHP, a baza danych to MySQL. Projekt graficzny jest autorski i został wykonany w Figmie.
+Project Bobby is an imaginary restaurant website. Among others it has dish search functionality and adding products to the cart. It's built in HTML, CSS, Vanilla Javascript along with the AJAX technology and PHP. The database is MySQL. Graphic design is made by me in Figma.
